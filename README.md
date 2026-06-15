@@ -1,32 +1,75 @@
-# Utility_Shell
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# utility_shell
 
-- Collection of `shell scripts/commands` for cases 
-  - env set up 
-  - system config 
-  - file/data manipulation  
-  - useful bash scripts
-  - others
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/utility_shell)
 
-> [!NOTE]
-> this is a util shell repo  
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
+## Architecture
 
-## Ref
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-<details>
-<summary>Ref</summary>
-		
-### Posgre
-* Posgre UDF 
-	* https://www.tutorialspoint.com/postgresql/postgresql_functions.htm
-* PL/pgSQL turtorial 
-	* https://w3resource.com/PostgreSQL/pl-pgsql-declarations.php
-	* http://www.imada.sdu.dk/~jamik/db2-12/material/39-PL-pgSQL.pdf
-* Posgre cursor 
-	* http://www.postgresqltutorial.com/plpgsql-cursor/
+## Install
 
-### Shell OP
-* use `sed` to find and  replace string in file
-  * https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-</details>
+```bash
+git clone https://github.com/Interested-Deving-1896/utility_shell.git
+cd utility_shell
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/utility_shell`](https://github.com/Interested-Deving-1896/utility_shell) and mirrored through:
+
+```
+Interested-Deving-1896/utility_shell  ──►  OpenOS-Project-OSP/utility_shell  ──►  OpenOS-Project-Ecosystem-OOC/utility_shell
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
