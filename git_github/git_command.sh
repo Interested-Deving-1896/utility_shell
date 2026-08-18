@@ -245,3 +245,10 @@ git remote -v
 # ssh -T git@github.com-yennanliu
 # # → Hi yennanliu! You've successfully authenticated...
 
+
+# 23) cm remove git worktree
+#  run from the repo that owns the worktree:
+git worktree remove <path>
+
+git -C /Users/jliu/CS_basics    worktree remove /Users/jliu/CS_basics-wt-site
+git -C /Users/jliu/xxx worktree remove /Users/jliu/xxx-yyy
