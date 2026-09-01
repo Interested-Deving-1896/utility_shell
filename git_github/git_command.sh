@@ -230,6 +230,11 @@ git remote set-url origin git@<ssh-host-alias>:<github-username>/<repo-name>.git
 So for your two accounts:
 
 # For yennanliu repos
+
+# 3. Confirm the SSH alias is configured
+#grep -A4 "github.com-yennanliu" ~/.ssh/config
+# 4. Clone (run from /Users/jliu/dev)
+#git clone git@github.com-yennanliu:yennanliu/xxx_poc.git
 git remote set-url origin git@github.com-yennanliu:yennanliu/<repo-name>.git
 
 # For my_company repos
