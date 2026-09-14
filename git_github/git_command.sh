@@ -257,3 +257,7 @@ git worktree remove <path>
 
 git -C /Users/jliu/CS_basics    worktree remove /Users/jliu/CS_basics-wt-site
 git -C /Users/jliu/xxx worktree remove /Users/jliu/xxx-yyy
+
+# example
+# git branch -d worktree-aiefs-phase06
+# git branch -d worktree-aiefs-phase07
