@@ -58,7 +58,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@yennanliu](https://github.com/yennanliu) | 909 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 15 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 17 |
 | [@yen-l-20230331](https://github.com/yen-l-20230331) | 4 |
 <!-- AI:end:contributors -->
 
